@@ -1,0 +1,16 @@
+devices:
+  stine-island:
+    device_name: stine-island
+    device_ip: 192.168.1.1
+    user_tags: {}
+    flow_only: true
+  stine-island2:
+    device_name: stine-island
+    device_ip: 172.17.0.1
+    user_tags: {}
+    flow_only: true
+  stine-island3:
+    device_name: stine-island
+    device_ip: 192.168.65.7
+    user_tags: {}
+    flow_only: true
