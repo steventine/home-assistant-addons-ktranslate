@@ -1,6 +1,6 @@
 name: "Syslog to New Relic Forwarder (via ktranslate)"
 description: "Syslog server that forwards syslogs to New Relic. Uses ktranslate as the core."
-version: "1.0.0"
+version: "1.1.0"
 url: "https://github.com/steventine/ktranslate"
 slug: "ktranslate_syslog_hassio"
 init: false

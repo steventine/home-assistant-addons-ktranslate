@@ -1,15 +1,9 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 
-## 1.2.0
-
-- Add an apparmor profile
-- Update to 3.15 base image with s6 v3
-- Add a sample script to run as service and constrain in aa profile
-
 ## 1.1.0
 
-- Updates
+- Adds the time zone offset to the `ktranslate-health` logs so the timezone can be localtime now
 
 ## 1.0.0
 
-- Initial release
+- Initial working version, but it requires the timezone to be UTC for the `ktranslate-health` logs to be correct
